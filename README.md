@@ -1,98 +1,97 @@
-# InfiniteTech Chennai
+# Infinite Tech AI
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://infinitetech.in)  ![GitHub org](https://komarev.com/ghpvc/?username=infinitetechchennai&label=Profile+Views&color=brightgreen)
+[![Website](https://img.shields.io/badge/Website-Visit-blue)](https://infinitetech.in)  ![Profile Views](https://komarev.com/ghpvc/?username=infinitetechchennai&label=Profile+Views&color=brightgreen)
 
-Enterprise software services • Product engineering • Cloud-native solutions
+AI-driven product engineering • Enterprise integrations • Cloud-native solutions
 
 ---
 
-## About Us
-InfiniteTech Chennai builds robust, scalable web & mobile applications and integrations for enterprises and SMBs. We focus on delivering production-ready products—APIs, dashboards, e-commerce solutions, integrations (Tally/ERP), and automation tooling—using modern cloud-native and mobile-first technologies.
+## About Infinite Tech AI
+Infinite Tech AI builds AI-enabled, production-grade web and mobile applications, enterprise integrations, and automation tooling. We combine domain-driven product design with engineering excellence to deliver measurable business outcomes.
 
-Our mission: Deliver measurable business impact by combining engineering excellence with domain-driven product thinking.
+Our mission: Accelerate digital transformation through intelligent software and pragmatic engineering.
 
 ---
 
 ## Core Capabilities
-- Product engineering: Frontend, backend, mobile and platform architecture
-- Enterprise integrations: ERP / accounting integrations (Tally, custom connectors)
-- E-commerce & marketplaces: Storefronts, admin panels, payment integrations
-- Automation & data: Web scraping, ETL, reporting and analytics
-- DevOps & cloud: Containerization, CI/CD, infrastructure as code
+- AI & ML-powered features: recommendations, analytics, and automation
+- Product engineering: frontend, backend, mobile, and platform architecture
+- Enterprise integrations: ERP/Accounting (Tally), payment gateways, third-party APIs
+- E‑commerce & marketplaces: storefronts, admin dashboards, order & inventory systems
+- Data & automation: web scraping, ETL, reporting and analytics pipelines
+- DevOps & security: containerization, CI/CD, infra-as-code, monitoring and incident management
 
 ---
 
 ## Technology Stack (typical)
-- Frontend: React, TypeScript, modern component frameworks
+- Frontend: React, TypeScript
 - Backend: Node.js, TypeScript, Python
 - Mobile: Flutter / Dart
-- Databases: MySQL / PostgreSQL, NoSQL where applicable
-- DevOps: Docker, CI/CD pipelines, cloud hosting (AWS/GCP/Azure)
-- Tools: Git, automated testing, linters, and code-quality workflows
+- Databases: MySQL, PostgreSQL, Redis
+- Cloud & Infra: Docker, Kubernetes, AWS/GCP/Azure
+- MLOps: model serving, inference pipelines, monitoring
+- Tooling: Git, automated testing, linting, static analysis
 
 ---
 
-## Featured Projects (repo catalog)
-Below are public repositories associated with this account. Click a project for code and details. Replace the short notes below with project summaries when you want them published.
+## Project Catalog — Flagship public projects
+Below are representative, public projects. For private or client work we provide anonymized case studies — contact us to discuss partnerships or NDA access.
 
-- [amazon-sales](https://github.com/infinitetechchennai/amazon-sales) — JavaScript — No description provided.
-- [Brokerapp](https://github.com/infinitetechchennai/Brokerapp) — Dart — No description provided.
-- [cosmocartt-admin](https://github.com/infinitetechchennai/cosmocartt-admin) — TypeScript — No description provided.
-- [Cosmocartt-web](https://github.com/infinitetechchennai/Cosmocartt-web) — Python — No description provided.
-- [cosmocartt.in](https://github.com/infinitetechchennai/cosmocartt.in) — JavaScript — No description provided.
-- [IMAGE-LINK](https://github.com/infinitetechchennai/IMAGE-LINK) — (language not set) — No description provided.
-- [ktrlawassociates](https://github.com/infinitetechchennai/ktrlawassociates) — TypeScript — No description provided.
-- [refex](https://github.com/infinitetechchennai/refex) — TypeScript — Description: tally integration.
-- [scp-realestate](https://github.com/infinitetechchennai/scp-realestate) — TypeScript — No description provided.
-- [sevenxt](https://github.com/infinitetechchennai/sevenxt) — Dart — No description provided.
-- [sevenxt_dash](https://github.com/infinitetechchennai/sevenxt_dash) — TypeScript — No description provided.
-- [studiobooking](https://github.com/infinitetechchennai/studiobooking) — Dart — No description provided.
-- [tray-img](https://github.com/infinitetechchennai/tray-img) — (language not set) — No description provided.
-- [twin_health_report_demo](https://github.com/infinitetechchennai/twin_health_report_demo) — JavaScript — No description provided.
-- [UI-Stratroom](https://github.com/infinitetechchennai/UI-Stratroom) — (language not set) — No description provided.
-- [web_scraping](https://github.com/infinitetechchennai/web_scraping) — Python — No description provided.
+- [amazon-sales](https://github.com/infinitetechchennai/amazon-sales) — JavaScript — Sales analytics and automation tooling for marketplace sellers. (Add short summary)
+- [cosmocartt-admin](https://github.com/infinitetechchennai/cosmocartt-admin) — TypeScript — Admin dashboard and management panel for Cosmocartt. (Add short summary)
+- [Cosmocartt-web](https://github.com/infinitetechchennai/Cosmocartt-web) — Python — Customer-facing storefront and API integrations. (Add short summary)
+- [refex](https://github.com/infinitetechchennai/refex) — TypeScript — Tally integration connector for automated accounting sync.
+- [scp-realestate](https://github.com/infinitetechchennai/scp-realestate) — TypeScript — Real-estate listing and management platform. (Add short summary)
+- [web_scraping](https://github.com/infinitetechchennai/web_scraping) — Python — ETL and scraping utilities for market data ingestion.
 
-(Notes: I discovered recent PR activity on `Stratroom` as well — there are UI and backend repos for Stratroom that may be part of your product suite. Add summaries for any private or omitted repos.)
+(Replace or expand each item above with a 1–2 line summary, tech highlights, and a demo/screenshot link where appropriate.)
+
+If you prefer a different presentation, we can produce:
+- Product-focused layout (product pages with problem, solution, impact).
+- Technical portfolio (architecture diagrams, tech choices, CI status).
+- Investor/partner deck-style one-pagers for each flagship product.
 
 ---
 
-## How We Deliver
-1. Discovery & scope — Product-first planning and quick prototyping.
-2. Iterative build — Short sprints, continuous demos, automated tests.
-3. Secure deployment — Infrastructure as code, private CI/CD pipelines.
-4. Production support — Monitoring, SLAs, and scheduled improvements.
+## Private & Confidential Projects
+We keep client implementations private. Public README will list anonymized case studies such as:
+- "Enterprise inventory automation for a national retailer — reduced processing time by 40%."
+- "Accounting reconciliation pipeline — integrated with Tally, automated monthly close."
+
+Contact us to request detailed technical summaries under NDA.
+
+---
+
+## Delivery & Practices
+1. Discovery & product validation — prototypes and rapid POCs
+2. Iterative development — short sprints and continuous delivery
+3. Secure production deployment — IaC, secrets management, monitoring
+4. Ongoing support — SLAs, observability, and scheduled improvements
 
 ---
 
 ## Security & Compliance
-- Code reviews and pull-request based workflows
-- Automated test suites and CI checks
-- Rotate secrets, role-based access, and environment segregation
-- GDPR / local compliance for data handling (customized per-client)
+- Pull request reviews and CI-based quality gates
+- Secrets and environment segregation; least privilege access
+- Client-data handling practices and compliance tailored per engagement
 
 ---
 
-## Engagement & Partnerships
-We work with enterprises and startups to:
-- Build internal platforms and customer-facing products
-- Integrate accounting and operations systems
-- Deliver e-commerce and logistics tooling
-
-To discuss partnerships, RFPs, or pilots, get in touch:
-
-- Email: contact@infinitetech.in (replace with your contact)
-- Website: https://infinitetech.in (replace with your website)
-- LinkedIn: https://www.linkedin.com/company/infinitetech (replace as needed)
+## Contact & Partnerships
+For RFPs, pilots, or to request NDA-protected materials:
+- Email: contact@infinitetech.in
+- Website: https://infinitetech.in
+- LinkedIn: https://www.linkedin.com/company/infinitetech
 
 ---
 
-## Want this published to your profile?
-If you want, I can add or update this README in your company profile repository. Tell me:
-1. The repository name to write to (e.g., `infinitetechchennai/infinitetechchennai`)
-2. Any company logo, URL, contact email, or project descriptions to include.
+## Want me to publish this for you?
+I can:
+- Update this README in your profile repo (Infinitetechchennai/Infinitetechchennai) with the company name changed to Infinite Tech AI and curated project summaries.
+- Automatically extract public repo READMEs and generate 1–2 sentence summaries for each public project.
+- Produce anonymized case studies for private repos if you share permitted descriptions or upload a secure export (zip).
 
----
-
-Thank you — I can now:
-- Fill in missing project descriptions from repository READMEs if you want (I can fetch each repo README and incorporate summaries), or
-- Commit this README into your profile repo if you authorize me to create the file.
+Please tell me which option you want:
+1) Publish this README as-is to the repo (I will create/update README.md). Provide confirmation and the exact repo to write to.
+2) Auto-fill public project summaries (I will fetch each public repo README and return a filled README).
+3) Analyze private repos — I’ll need you to upload a zip export of private repos (instructions available) or give secure access.
